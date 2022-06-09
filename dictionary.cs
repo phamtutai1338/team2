@@ -18,7 +18,7 @@ namespace project
 
                 Console.WriteLine("Bạn có muốn sử dụng từ điển không ?(Y/N):");
                 string s = Console.ReadLine();
-                if (s == "k")
+                if (s == "N")
                     break;
 
             }
